@@ -396,45 +396,13 @@ footer {
     }
     .img-galeria{
         margin-top: 20px;        
-        width: 80%;
+        width: 90%;
     }
 
-    .contenedor{
-        padding-top: 70px;
-    }
-    #expertos h2{
-        margin-bottom: 30px;
-    }
-    #expertos{
-        height: 100vh;
-    }
+}
 
-    .cont-expert{
-        margin: 20px;
+@media screen and (max-width:431px){
+    .brand{
+        font-size: 35px;
     }
-    .footer-content{
-        padding: 0px;
-    }
-
-    .contact-us{
-        margin: 30px;
-    }
-
-    .contact-us p{
-        margin: 10px;
-    }
-
-    .social-media{
-        width: 100%;;
-    }
-    .social-media-icon{
-        width: 60px;
-        height: 60px;
-        margin: 5px;
-    }
-
-    .line{
-        margin: 30px auto 20px auto;
-    }
-
 }
